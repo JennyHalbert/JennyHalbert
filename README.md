@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JennyHalbert
-- 👀 I’m interested in data analytics and all things software engineering related. 
-- 🌱 I'm currently studying software engineering.
+- Hi, I’m @JennyHalbert
+- I’m interested in data analytics and all things software engineering related.
+- I'm currently pursuing a Bachelor of Engineering in Software Engineering.
 
 
 <!---
